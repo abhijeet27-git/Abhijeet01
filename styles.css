@@ -1,0 +1,91 @@
+h1{text-align: center;
+color: hsl(194, 33%, 18%);
+font-size: 60px;}
+html{background-color: #C2C5BB;
+border: 10px double black;
+border-radius: 10px;}
+h2{color: #1F363D;
+text-decoration: underline;}
+h2::first-letter{ height: 100px;}
+img{align-items: center;}
+.box{height: 300px; width: 650px;
+background-color: orange;
+border: 20px solid black;
+border-radius: 20px;
+padding: 20px;
+font-weight: bold;
+font-size: 25px;
+border-left: 20px solid;
+position: absolute;
+left: 50%;
+height: 210px;
+}
+.container{height: 210px; width: 650px;
+background-color: orange;
+border: 20px solid black;
+border-radius: 20px;
+font-weight: bold;
+padding: 20px;}
+h2{font-size: 50px;
+text-align: center;}
+ul{font-size: 20px;
+;}
+hr{color: black;}
+.box2{ height: 350px; width: 1450px;
+background-color: orange;
+border: 20px solid black;
+border-radius: 20px;
+font-weight: bold;}
+.box3{ height: 300px; width: 1450px;
+    background-color: orange;
+    border: 20px solid black;
+    border-radius: 20px;
+    font-weight: bold;
+}
+.container2{ height: 400px; width: 1450px;
+background-color: orange;
+border: 20px solid black;
+border-radius: 20px;
+font-weight: bold;}
+.box4{ height: 450px; width: 1450px;
+    background-color: orange;
+    border: 20px solid black;
+    border-radius: 20px;
+    font-weight: bold;}
+    .bihar{height: 1000px; width: 650px;
+        padding: 20px;
+        border-left: 1px solid lightgray;
+        position: absolute;
+        left: 50%;
+        height: 850px;}
+        .biharr{height: 890px; width: 650px;
+            background-color: orange;
+            border: 20px solid black;
+            border-radius: 20px;
+            font-weight: bold;
+            padding: 20px;}
+            .year{height: 1000px; width: 650px;
+                padding: 20px;
+                border-left: 1px solid lightgray;
+                position: absolute;
+                left: 50%;
+                height: 850px;}       
+.time1{height: 1450px; width: 650px;
+    background-color: orange;
+    border: 20px solid black;
+    border-radius: 20px;
+    font-weight: bold;
+    padding: 20px;}  
+    .time{font-weight: bold;
+    font-size: 20px;}  
+    #prem{font-size: 30px;}     
+    nav{
+        display: flex;
+        justify-content: space-between;
+        padding:0 30px;
+    }        
+    nav .right a { color: black;
+    background-color: aliceblue;
+text-decoration: double;
+font-size: 20px;}
+footer{text-align: center;}
